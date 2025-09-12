@@ -1,2 +1,1 @@
-# Real-Time-Estimation-of-Power-System-Frequency-Using-Nonlinear-Least-Squares-Method-
-Course Project- Power System
+Implemented a Simulink Nonlinear Least Squares estimator for real-time power-system frequency tracking converged within a single 10 ms analysis window  and remained robust under ±15\% amplitude variation. Also, analyzed window-size vs. accuracy tradeoffs ,modelled harmonics to reduce estimation error, and streamed \textit{live} estimates to MongoDB for \textit{web visualization}
